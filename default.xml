@@ -282,7 +282,7 @@
   <project path="external/zopfli" name="platform/external/zopfli" groups="pdk-cw-fs" />
   <project path="external/zxing" name="platform/external/zxing" groups="pdk-cw-fs" />
   <project path="frameworks/av" name="android_frameworks_av" remote="omnirom" revision="android-5.0" groups="pdk" />
-  <project path="frameworks/base" name="android_frameworks_base" remote="omnirom" revision="android-5.0" groups="pdk-cw-fs" />
+  <project path="frameworks/base" name="FreedomROM/android_frameworks_base" remote="github" revision="android-5.0" groups="pdk-cw-fs" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" groups="pdk" />
   <project path="frameworks/compile/slang" name="platform/frameworks/compile/slang" groups="pdk" />
@@ -375,16 +375,16 @@
   <project path="packages/apps/Camera2" name="android_packages_apps_Camera2" remote="omnirom" revision="android-5.0" />
   <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" groups="pdk-cw-fs" />
-  <project path="packages/apps/Contacts" name="android_packages_apps_Contacts" remote="omnirom" revision="android-5.0" />
-  <project path="packages/apps/ContactsCommon" name="android_packages_apps_ContactsCommon" remote="omnirom" revision="android-5.0" />
+  <project path="packages/apps/Contacts" name="FreedomROM/android_packages_apps_Contacts" remote="github" revision="android-5.0" />
+  <project path="packages/apps/ContactsCommon" name="FreedomROM/android_packages_apps_ContactsCommon" remote="github" revision="android-5.0" />
   <project path="packages/apps/DeskClock" name="android_packages_apps_DeskClock" remote="omnirom" revision="android-5.0" />
-  <project path="packages/apps/Dialer" name="android_packages_apps_Dialer" remote="omnirom" revision="android-5.0" />
+  <project path="packages/apps/Dialer" name="FreedomROM/android_packages_apps_Dialer" remote="github" revision="android-5.0" />
   <project path="packages/apps/DSPManager" name="android_packages_apps_DSPManager" remote="omnirom" revision="android-5.0" />
   <project path="packages/apps/Email" name="android_packages_apps_Email" remote="omnirom" revision="android-5.0" />
   <project path="packages/apps/Exchange" name="platform/packages/apps/Exchange" />
   <project path="packages/apps/Gallery2" name="android_packages_apps_Gallery2" remote="omnirom" revision="android-5.0" />
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" />
-  <project path="packages/apps/InCallUI" name="android_packages_apps_InCallUI" remote="omnirom" revision="android-5.0" />
+  <project path="packages/apps/InCallUI" name="FreedomROM/android_packages_apps_InCallUI" remote="github" revision="android-5.0" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" />
   <project path="packages/apps/Launcher3" name="android_packages_apps_Launcher3" remote="omnirom" revision="android-5.0" />
   <project path="packages/apps/LegacyCamera" name="platform/packages/apps/LegacyCamera" />
@@ -402,7 +402,7 @@
   <project path="packages/apps/PhoneCommon" name="platform/packages/apps/PhoneCommon" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
   <project path="packages/apps/QuickSearchBox" name="android_packages_apps_QuickSearchBox" remote="omnirom" revision="android-5.0" />
-  <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="omnirom" revision="android-5.0" />
+  <project path="packages/apps/Settings" name="FreedomROM/android_packages_apps_Settings" remote="github" revision="android-5.0" />
   <project path="packages/apps/SmartCardService" name="platform/packages/apps/SmartCardService" />
   <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" />
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" />
